@@ -22,7 +22,7 @@ def preprocess_image(image):
     return image_array
 
 # Definisikan kelas penyakit kucing
-cat_disease_classes = ["Health", "Ringworm", "Scabies", "Sporotrichosis"]
+cat_disease_classes = ["Health", "Ringworm", "Scabies", "Flea_Allergy"]
 
 @app.route('/predict', methods=['POST'])
 def predict():
