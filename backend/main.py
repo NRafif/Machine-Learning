@@ -35,7 +35,7 @@ async def predict(file: UploadFile = File(...)):
         predicted_class = np.argmax(predictions)
 
         # Daftar nama kelas dataset
-        class_names = ['Scabies', 'Dermatitis', 'Lepra', 'Health']
+        class_names = ['Scabies', 'Flea_Allergy', 'Ringworm', 'Health']
         result = class_names[predicted_class]
 
         return {"prediction": result}
