@@ -1,0 +1,37 @@
+{
+    "Flea_Allergy": [{
+        "title": "What are Flea Allergies in Cats?",
+        "content": "Flea allergy pada kucing disebabkan oleh reaksi alergi terhadap air liur kutu yang disuntikkan saat gigitan...",
+        "link": "https://beyondpets.com/pet-health-plus/flea-allergies-in-cats/"
+    },
+    {   "title": "Identification and Prevalence of Flea in Feral Cats in Some Markets Sidoarjo District",
+        "content": "Terdapat penelitian yang membahas identifikasi dan prevalensi flea pada kucing liar di dua pasar di Kabupaten Sidoarjo....",
+        "link": "https://medicra.umsida.ac.id/index.php/medicra/article/download/1577/1922/" }],
+
+    "Health" : [{
+        "title": "Cara Merawat Kucing yang Tepat agar Terhindar dari Penyakit",
+        "content": "Merawat kucing dengan baik memerlukan perhatian terhadap kebersihan dan kesehatannya...",
+        "link": "https://pyfahealth.com/blog/cara-merawat-kucing-yang-tepat-agar-terhindar-dari-penyakit/"
+    },
+    {   "title": "Cats 101: Basic Health & Care Tips to Keep Your Cat Healthy",
+        "content": "Menjaga kesehatan kucing memerlukan perhatian pada kebiasaan sehari-hari mereka...",
+        "link": "https://www.petsafe.com/blog/cats-101-basic-health-care-tips-to-keep-your-cat-healthy/" }],
+
+    "Ringworm" : [{
+        "title": "Ringworm Kucing",
+        "content": "Ringworm pada kucing, juga dikenal sebagai feline dermatophytosis, adalah infeksi jamur yang menyerang kulit, bulu, dan kuku kucing...",
+        "link": "https://hellosehat.com/sehat/informasi-kesehatan/ringworm-kucing/"
+    },
+    {   "title": "Ringworm in cats",
+        "content": "Ringworm pada kucing adalah infeksi jamur (dermatophytosis) yang menyerang kulit, bulu, dan kuku...",
+        "link": "https://www.petmd.com/cat/conditions/skin/ringworm-in-cats" }],
+
+    "Scabies" : [{
+        "title": "Scabies in Cats: Causes, Symptoms & Treatment",
+        "content": "Scabies pada kucing adalah penyakit kulit yang sangat menular yang disebabkan oleh tungau Notoedres cati...",
+        "link": "https://cats.com/scabies-in-cats"
+    },
+    {   "title": "Handling of Scabies in Domestic Cat at Q-one Petklinik Surabaya",
+        "content": "Terdapat Penelitian membahas penanganan penyakit scabies pada kucing domestik di Q-One PetKlinik Surabaya...",
+        "link": "https://e-journal.unair.ac.id/JAVEST/article/view/29525" }]
+}
