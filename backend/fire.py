@@ -2,9 +2,9 @@
 from flask import Flask, request, jsonify   # Framework untuk API
 import tensorflow as tf                     # Library Machine Learning
 import numpy as np                          # Library untuk bagian perhitungan
-from pathlib import Path
+from pathlib import Path                    # Library membaca file
 from PIL import Image                       # Library untuk mengatur gambar
-import json
+import json                                 # Library untuk load file json
 import io                                   # Library untuk bagian Input/Ouput
 
 app = Flask(__name__)
@@ -35,10 +35,10 @@ def from_articles():
         with open(article_path, 'r', encoding='utf-8') as file:
             return json.load(file)
     except FileNotFoundError:
-        print(f"Warning: Article file not found at {article_path}")
+        print(f"Warning: Artikel tidak ditemukan di {article_path}")
         return {}
     except json.JSONDecodeError:
-        print(f"Warning: Invalid JSON format in {article_path}")
+        print(f"Warning: Invalid JSON format di {article_path}")
         return {}
     
 # Load article saat prediksi dimulai
